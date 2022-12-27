@@ -1,0 +1,18 @@
+.tree {
+  background-color: #efefef;
+  height: 100%;
+  padding: 10px;
+  font-family: monospace;
+}
+
+.near {
+  margin-left: 2.7rem;
+}
+
+.far {
+  margin-left: 5.5rem;
+}
+.farther {
+  margin-left: 8.2rem;
+  margin-bottom: 1.5rem;
+}

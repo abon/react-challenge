@@ -1,0 +1,30 @@
+{
+  "mammals": [
+    {
+      "id": 1,
+      "name": "cheetah"
+    },
+
+    {
+      "id": 2,
+      "name": "bear"
+    },
+
+    {
+      "id": 3,
+      "name": "lion"
+    },
+    {
+      "id": 4,
+      "name": "dog"
+    },
+    {
+      "id": 5,
+      "name": "elephant"
+    },
+    {
+      "id": 6,
+      "name": "ape"
+    }
+  ]
+}
